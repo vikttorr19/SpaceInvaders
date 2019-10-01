@@ -1,0 +1,5 @@
+A rendszer célja a szórakoztatás. 
+A játék működő képes, apróbb hibák akadnak melyeken dolgozunk.
+Hiba nélküli, tökéletesen működő programot akarunk kifejleszteni mely mindenki számára elérhető.
+
+
