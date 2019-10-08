@@ -1,5 +1,31 @@
-A rendszer célja a szórakoztatás. 
-A játék működő képes, apróbb hibák akadnak melyeken dolgozunk.
-Hiba nélküli, tökéletesen működő programot akarunk kifejleszteni mely mindenki számára elérhető.
+﻿-Terjedelme ne legyen se túl hosszú se túl rövid.
+
+-A rendszer célja a szórakoztatás. 
+
+-A játék működő képes, apróbb hibák akadnak melyeken dolgozunk.
+
+-Hiba nélküli, tökéletesen működő programot akarunk kifejleszteni mely mindenki számára elérhető.
+
+-Követelmény, hogy a program ne C# programnyelven íródjon.
+
+-Használati esetbe bele tartozik a játékos meg tud halni ha közel jönnek az ellenséges űrhajók 
+de el is tudja pusztítani őket mivel a játékos karaktere önvédelmi mechanizmussal rendelkezik.
+
+-A használati esetek megfelelnek a követelményeknek.
+
+-A prgram megírásakor ügyeltünk a szoftver felhasználó barátságosságára, így nem akadályozza a 
+felhasználót célja elérésében.
+
+-Játék indításával láthatóvá válik a "hajó" amivel játszom valamint az ellenségek (űrhajók).
+A hajót nyilakkal lehet irányítani valamint space lenyomására lövedéket bocsát ki, minden egyes 
+eltalált ellenfél 10 pontot ér majd az eltalált ellenfél random helyen újra spawn-olódik.
+
+-A program 3 gif fájlból dolgozik, a program ablakának mérete a progaram hátterének
+használt gif mérete.
+
+-Minden egyes részlethez megjegyzésbe ki van fejtve, hogy az adott rész mire való.
+
+
+
 
 

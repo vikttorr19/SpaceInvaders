@@ -1,0 +1,11 @@
+-Hiba nélküli, tökéletesen muködo programot akarunk kifejleszteni mely mindenki számára elérheto.
+
+-Követelmény, hogy a program ne C# programnyelven íródjon. GITHUB-en való szerkesztés mellõzése.
+
+-A játék muködo képes, apróbb hibák akadnak melyeken dolgozunk.
+
+-Követelmény, hogy a program ne C# programnyelven íródjon.Saját ötlet alapján írodjon a program.
+
+
+-Fogalomszótár: GIT-verzió kezeléshez használt metódus
+ 
