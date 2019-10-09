@@ -162,6 +162,16 @@ while True:
             scorestring = "Score: %s" %score
             score_pen.clear()
             score_pen.write(scorestring, False, align="left", font=("Arial", 14, "normal"))
+            if score%50==0:
+                enemies.append(turtle.Turtle())
+                enemies[-1].color("red")
+                enemies[-1].shape("invader.gif")
+                enemies[-1].penup()
+                enemies[-1].speed(0)
+                x = random.randint(-200, 200)
+                y = random.randint(100, 250)
+                enemies[-1].setposition(x, y)
+                
             
         if isCollision(player, enemy):
             player.hideturtle()
