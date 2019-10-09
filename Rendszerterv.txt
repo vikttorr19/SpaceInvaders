@@ -1,0 +1,30 @@
+Konceptuális:
+A projekt a Space Invaders című játékról szól.
+A program nem túl egyszerű és nem túl nehéz.
+Az adott határidőn belül megvalósítható kényelmesen.
+A projekt tervezésénél egyhangúan a Space Invaders lett megszavazva.
+
+Nagyvonalú:
+A projekt a Space Invaders című játékról szól.
+A program nem túl egyszerű és nem túl nehéz.
+Az adott határidőn belül megvalósítható kényelmesen.
+A projekt tervezésénél egyhangúan a Space Invaders lett megszavazva.
+
+A programot pythonban fogjuk megírni a Spyder fejlesztői környezetben.
+Segítségünkre lesz a pythonban elérhető "turtle" funkció, ami lényegében olyan mint egy rajztábla.
+Létre tudunk hozni egy teknőst, aminek tetszőlegesen lehet állítani a alakját ha egy képállományt importálunk. Ezeket parancsokkal szabadon lehet mozgatni.
+
+Részletes:
+A projekt a Space Invaders című játékról szól.
+A program nem túl egyszerű és nem túl nehéz.
+Az adott határidőn belül megvalósítható kényelmesen.
+A projekt tervezésénél egyhangúan a Space Invaders lett megszavazva.
+
+A programot pythonban fogjuk megírni a Spyder fejlesztői környezetben.
+Segítségünkre lesz a pythonban elérhető "turtle" funkció, ami lényegében olyan mint egy rajztábla.
+Létre tudunk hozni egy teknőst, aminek tetszőlegesen lehet állítani a alakját ha egy képállományt importálunk. Ezeket parancsokkal szabadon lehet mozgatni.
+
+A nyilakkal lehet majd mozgatni a játékost jobbra,balra.
+A space gombbal lehet lőni az invadereket. Egy invader megölése 10 pontot ad majd.
+50 pont elérésekor plusz egy újabb invader lesz ellenünk.
+Az invaderek jobbra és balra mozognak, irányt cserélve ha az egyik elérte a szegélyt.
